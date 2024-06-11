@@ -4,4 +4,5 @@
 - `cmake -S. -Bbuild`
 - `cmake --build build`
 
-## More example
+## More Examples
+Please refer to `/src/examples/`
