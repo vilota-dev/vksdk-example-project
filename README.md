@@ -1,0 +1,1 @@
+# vksdk-sample-project
